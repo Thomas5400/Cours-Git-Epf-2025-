@@ -34,7 +34,7 @@ public class Point {
     if (objet instanceof Point){
         objet = (Point) objet;
     } else return false;
-    if(bkbn)
+    if(blbala)
 
     }
 }
