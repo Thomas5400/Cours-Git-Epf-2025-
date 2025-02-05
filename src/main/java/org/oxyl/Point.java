@@ -3,12 +3,12 @@ package org.oxyl;
 public class Point {
     double x;
     double y;
+    int test;
 
     public Point() {
         x=0;
         y=0;
     }
-
     public Point(Point point){
         this.x = point.x;
         this.y = point.y;
@@ -34,7 +34,8 @@ public class Point {
     if (objet instanceof Point){
         objet = (Point) objet;
     } else return false;
-    if(blbala)
+    if (x == objet.getX()){
 
+    }
     }
 }
