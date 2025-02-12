@@ -36,3 +36,4 @@ public class Triangle {
         y3 += distanceY;
     }
 }
+// Ouais cest Greg
