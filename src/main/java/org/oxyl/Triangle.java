@@ -36,4 +36,4 @@ public class Triangle {
         y3 += distanceY;
     }
 }
-// Ouais cest Greg
+// Ouais cest Greg. Oui c'est le fils à Greg
