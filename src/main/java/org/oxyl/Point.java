@@ -34,8 +34,8 @@ public class Point {
     if (objet instanceof Point){
         objet = (Point) objet;
     } else return false;
-    if (x == objet.getX()){
-
-    }
+    if (x == objet.getX() && y==objet.getY()){
+        return true;
+    } else return false;
     }
 }
