@@ -37,3 +37,5 @@ public class Triangle {
     }
 }
 // Ouais cest Greg. Oui c'est le fils à Greg. Oui c'est le petit fils de greg
+
+//Cest la petite fille de greg.
