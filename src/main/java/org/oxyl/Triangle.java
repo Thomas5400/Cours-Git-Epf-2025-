@@ -37,3 +37,7 @@ public class Triangle {
     }
 }
 // Ouais cest Greg. Oui c'est le fils à Greg. Oui c'est le petit fils de greg
+
+//pfg
+//fdg
+// TATATITATATA
