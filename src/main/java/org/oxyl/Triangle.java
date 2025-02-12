@@ -40,3 +40,4 @@ public class Triangle {
 //pfg
 //fdg
 // TATATITATATA
+//Je suis le fils de greg, je suis adopté.
